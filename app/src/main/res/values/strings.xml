@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search FB</string>
+    <string name="action_settings">Add to Favorites</string>
+    <string name="facebook_app_id">170475343452686</string>
+</resources>
